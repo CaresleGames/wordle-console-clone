@@ -1,0 +1,10 @@
+tests
+vocal
+focal
+blush
+allow
+awake
+bench
+major
+minor
+fresh
